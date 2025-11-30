@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @易安
+- 🔝 博客：www.kaijax.qzz.io
 - 👀 working
-- 🌱 
+- 
 
 ![snake](github-contribution-grid-snake.svg)
 =======
