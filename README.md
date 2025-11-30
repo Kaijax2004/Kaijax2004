@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @易安
-- 🔝 博客：www.kaijax.qzz.io
+- 🔝 博客：[www.kaijax.qzz.io](https://kaijax.qzz.io/)
 - 👀 working
 - 
 
